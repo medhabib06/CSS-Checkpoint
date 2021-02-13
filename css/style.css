@@ -1,0 +1,53 @@
+body{
+    background-color: rgb(132, 185, 230);
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.bold{
+    font-size: 150%; 
+    Font-weight: bold;
+    text-align: center;
+}
+  .mohamed{
+      text-align: center;
+  }
+
+  .nav {
+    position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+
+    background-color: rgb(187, 250, 255); 
+    list-style-type: none;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .nav li {
+    display: inline-block;
+    font-size: 20px;
+    padding: 20px;
+  }
+
+  div {
+    text-align: center;
+    margin: 20px;
+  }
+
+  .solid {background-color: lightgrey;
+    width: auto;
+    border: 15px solid rgb(41, 0, 136);
+    padding: 50px;
+    margin: 20px;}
+
+    .sidebyside {
+        display: inline-block;
+        background-color: lightgrey;
+        width: 455px;
+        border: 15px solid rgb(41, 0, 136);
+        padding: 50px;
+        margin: 20px;}
+
+    
+
